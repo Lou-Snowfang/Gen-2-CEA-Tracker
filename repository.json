@@ -1,0 +1,12 @@
+{
+  "name": "EmoTracker Official Packages",
+  "packages": [
+    {
+      "name": "Pokemon GSC Catch 'em All Tracker (v1)",
+      "author": "Lou Snowfang",
+      "version": "1.0",
+      "uid": "pokemon_gen2_lou",
+      "link": "https://github.com/Lou-Snowfang/Gen-2-CEA-Tracker"
+    }
+  ]
+}
